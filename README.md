@@ -1,4 +1,4 @@
-# game-minjung
+# 게임관련저장
 minjung game
 
 
